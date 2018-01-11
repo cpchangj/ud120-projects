@@ -67,7 +67,6 @@ plt.show()
 
 
 
-
 ### rename the "name" parameter when you change the number of features
 ### so that the figure gets saved to a different file
 try:
